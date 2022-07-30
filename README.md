@@ -34,7 +34,7 @@ I struggled quite a lot at cleaning the payrate and experience features as both 
 
 ## 🛠 Skills
 -Python,MS Excel,Jupyter,Sql
-## Appendix
+## PS
 I haven't explained my code here as i have already done it on medium, link(https://tinyurl.com/42sccmyz)
 and if you want to see the further explanation, i have written it in the code itself as comments, so you can check my DA_Project.ipynb file. 
 
